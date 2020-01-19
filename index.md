@@ -23,7 +23,7 @@
 
 | **Week** | **Topic**                            |
 |----------|--------------------------------------|
-| 1        | [Bayesian Inference Concepts](#week-1-course-overview) |
+| 1        | [Bayesian Inference Concepts](#week-1-bayesian-inference-concepts) |
 | 2        | [Bayesian Linear Regression](#week-2-introduction-to-neural-networks)                  |
 | 3        | [Bayesian Model Selection](#week-3-training-neural-networks)    |
 | 4        | [Classification](#week-4-convolutional-neural-networks)       |
