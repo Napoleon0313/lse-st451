@@ -84,7 +84,7 @@ The final grade will be determined by the above with equal weights (**50-50\%**)
 
 [Lecture Slides](/LectureSlides/SlidesWeek01.pdf)
 
-*Topics coverd in Lecture*: 
+*Topics covered in Lecture*: 
  - Machine Learning and Bayesian Inference
  - Bayes Estimators, 
  - Credible Intervals
@@ -96,7 +96,7 @@ The final grade will be determined by the above with equal weights (**50-50\%**)
 
 [Computer Class Notebook](/ComputerClasses/ComputerClass01.ipynb)
 
-*Computer Class*: 
+*Topics covered in Computer Class*: 
  - Introduction to Python, e.g.working with arrays, basic operation and plotting
  - Pseudo-Random numbers
  - Bayesian Inference (Point and Interval Estimation, Forecasting) with Monte Carlo
