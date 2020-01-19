@@ -94,6 +94,8 @@ The final grade will be determined by the above with equal weights (**50-50\%**)
 *Reading*:
  - Murphy, Sections 2.1-2.7, 5.2.1, 5.2.2, 6.6.1 and 6.6.2
 
+[Computer Class Notebook](/ComputerClasses/ComputerClass01.ipynb)
+
 *Computer Class*: 
  - Introduction to Python, e.g.working with arrays, basic operation and plotting
  - Pseudo-Random numbers
