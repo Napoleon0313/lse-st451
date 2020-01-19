@@ -82,6 +82,8 @@ The final grade will be determined by the above with equal weights (**50-50\%**)
 ---
 #### Week 1. Bayesian Inference Concepts
 
+[Lecture Slides](/LectureSlides/SlidesWeek01.pdf)
+
 *Topics coverd in Lecture*: 
  - Machine Learning and Bayesian Inference
  - Bayes Estimators, 
