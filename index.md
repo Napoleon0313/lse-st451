@@ -127,3 +127,28 @@ The final grade will be determined by the above with equal weights (**50-50\%**)
  - Ridge regression
 
 ---
+#### Week 3. Bayesian Model Choice
+
+[Lecture Slides](/LectureSlides/SlidesWeek03.pdf)
+
+*Topics covered in Lecture*: 
+ - Bayesian inference for multiparameter models
+ - Occam's razor
+ - Lindley's paradox
+ - Unit information priors
+ - Training and Test error, Cross-Validation
+ 
+*Further Reading (Optional)*:
+ - Murphy, Sections: 5.3 and 7.6 
+ - Bishop, Sections: 2.3.6, 3.3.1, 3.3.2, 3.4, 3.5.1 and 3.5.2
+
+[Computer Class Notebook](/ComputerClasses/ComputerClass03.ipynb)
+
+*Topics covered in Computer Class*: 
+ - Creating your own function in Python
+ - Performing matrix operations
+ - Conducting full MLE analysis, with confidence intervals rather than just point estimates for the regression coefficients
+ - Fitting Bayesian Linear Regression models and summarising the posterior of the regressions coefficients
+ - Calculate the marginal likelihood / model evidence for linear regression models to perform Bayesian model selection
+
+---
