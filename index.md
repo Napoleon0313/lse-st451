@@ -50,10 +50,10 @@ Basic knowledge in probability and first course in statistics such as ST202 or e
 
 Lecture slides will be **sufficient** for exam purposes but for optional further reading you can check the books below. 
 
- 1. [C. M. Bishop, Pattern Recognition and Machine Learning, Springer 2006](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
- 2. [K. Murphy, Machine Learning: A Probabilistic Perspective, MIT Press, 2012](https://ebookcentral.proquest.com/lib/londonschoolecons/detail.action?docID=3339490)
- 3. D. Barber, Bayesian Reasoning and Machine Learning, Cambridge University Press 2012
- 4. S. Rogers and M. Girolami, A First Course in Machine Learning, Second Edition, Chapman and Hall/CRC, 2016
+ - [C. M. Bishop, Pattern Recognition and Machine Learning, Springer 2006](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+ - [K. Murphy, Machine Learning: A Probabilistic Perspective, MIT Press, 2012](https://ebookcentral.proquest.com/lib/londonschoolecons/detail.action?docID=3339490)
+ - D. Barber, Bayesian Reasoning and Machine Learning, Cambridge University Press 2012
+ - S. Rogers and M. Girolami, A First Course in Machine Learning, Second Edition, Chapman and Hall/CRC, 2016
  
  Specific sections are recommended on the sections from each week below.
 
@@ -66,8 +66,8 @@ Lecture slides will be **sufficient** for exam purposes but for optional further
 Problem sets will be assigned **each week**. They will include theoretical exercises as well as computer-based assignments. They will be **marked** and returned with **feedback**. Also the marks will appear on LSE FOR YOU.
 
 **Immportant Notes**
- 1. Submit your problem set in **Columbia House Box 34** 
- 2. Write the **number of your class group** in the first page
+ - Submit your problem set in **Columbia House Box 34** 
+ - Write the **number of your class group** in the first page
 
 ### Assessment
 
