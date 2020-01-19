@@ -63,7 +63,7 @@ Lecture slides will be **sufficient** for exam purposes but for optional further
 
 ### Formative coursework
 
-Problem sets will be assigned each week. They will include theoretical exercises as well as computer-based assignments. They will be marked and returned with feedback. Also the marks will appear on LSE FOR YOU.
+Problem sets will be assigned **each week**. They will include theoretical exercises as well as computer-based assignments. They will be **marked** and returned with **feedback**. Also the marks will appear on LSE FOR YOU.
 
 **Immportant Notes**
  1. Submit your problem set in **Columbia House Box 34** 
