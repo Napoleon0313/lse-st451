@@ -13,11 +13,11 @@
 
 ### Course Information
 
-* Lectures on Mondays 13:00–15:00 in NAB.2.04 (except week 6 which is NAB.LG.01).
-* Computer Classes Groups 
- 1. Mondays 15:00–16:30 in STC.S018 taught by Kostas Kalogeropoulos
- 2. Tuesdays 16:00-17:30 in FAW.4.03 taught by Gianluca Giudice
- 3. Thursdays 15:00-16:30 in STC.S08 taught by Phil Chan
+* **Lectures** on Mondays 13:00–15:00 in NAB.2.04 (except week 6 which is NAB.LG.01).
+* **Computer Classes** there are 3 groups: 
+  1. Mondays 15:00–16:30 in STC.S018 taught by Kostas Kalogeropoulos
+  2. Tuesdays 16:00-17:30 in FAW.4.03 taught by Gianluca Giudice
+  3. Thursdays 15:00-16:30 in STC.S08 taught by Phil Chan
  
  There will be **no reading week**, hence teaching will be concluded on week 10. 
 
