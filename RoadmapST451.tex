@@ -1,0 +1,102 @@
+\documentclass{article}
+\usepackage{makeidx}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\newtheorem{theorem}{Theorem}
+\newtheorem{acknowledgement}[theorem]{Acknowledgement}
+\newtheorem{algorithm}[theorem]{Algorithm}
+\newtheorem{axiom}[theorem]{Axiom}
+\newtheorem{case}[theorem]{Case}
+\newtheorem{claim}[theorem]{Claim}
+\newtheorem{conclusion}[theorem]{Conclusion}
+\newtheorem{condition}[theorem]{Condition}
+\newtheorem{conjecture}[theorem]{Conjecture}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{criterion}[theorem]{Criterion}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{example}[theorem]{Example}
+\newtheorem{exercise}[theorem]{Exercise}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{notation}[theorem]{Notation}
+\newtheorem{problem}[theorem]{Problem}
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{remark}[theorem]{Remark}
+\newtheorem{solution}[theorem]{Solution}
+\newtheorem{summary}[theorem]{Summary}
+\newenvironment{proof}[1][Proof]{\textbf{#1.} }{\ \rule{0.5em}{0.5em}}
+
+\newcommand{\coddate}{{\small 31.8.2006}}
+\newcommand{\sheweek}{MT2006/2007 Exercise 1}
+\newcommand{\xra}{\xrightarrow }
+\newcommand{\lra}{\longrightarrow }
+\newcommand{\bks}{$\backslash$}
+
+\newcommand{\mat}[1]{\mbox{\boldmath{$#1$}}}
+\newcommand{\ftt}[1]{\fbox{{\tt #1}}}
+
+\newcommand{\eps}{\varepsilon}
+\newcommand{\var}{{\rm Var}}
+\newcommand{\cov}{{\rm Cov}}
+\newcommand{\corr}{{\rm Corr}}
+\newcommand{\nid}{{\rm NID}}
+\newcommand{\diag}{{\rm diag}}
+\newcommand{\md}{{\rm mod\ }}
+
+\newcommand{\Exp}{{\rm Exp}}
+\newcommand{\bin}{{\rm Bin}}
+\newcommand{\pois}{{\rm Pois}}
+\newcommand{\gam}{{\rm Gamma}}
+\newcommand{\bet}{{\rm Beta}}
+
+\newcommand{\vS}{\vspace{-0.2cm}}
+
+\setlength{\oddsidemargin}{17pt} \setlength{\evensidemargin}{-7pt}
+\setlength{\hoffset}{0pt} \setlength{\voffset}{-36pt}
+\setlength{\topmargin}{18pt} \setlength{\headheight}{15pt}
+\setlength{\headsep}{15pt} \setlength{\footskip}{18pt}
+\setlength{\columnsep}{20pt} \setlength{\paperheight}{846pt}
+\setlength{\paperwidth}{594pt} \setlength{\textwidth}{439pt}
+\setlength{\textheight}{671pt}
+
+\begin{document}
+
+\begin{center}
+\Large {\bf ST451 Bayesian Machine Learning - Road map}
+\end{center}
+\vspace{1cm}
+\normalsize
+%
+\large
+%
+%*******
+\section*{Road Map}
+%*******
+$\text{ }$
+\ \\
+\textbf{Supervised Learning}
+\begin{itemize}
+\item Linear Regression: 
+\begin{itemize}
+\item Maximum Likelihood/Least Squares.
+\item Bayesian Linear Regression.
+\item Gaussian Processes Regression.\\
+\end{itemize}
+\item Classification:
+\begin{itemize}
+\item Logistic/Probit regression via Maximum Likelihood.
+\item Bayesian Logistic/Probit Regression.
+\item Gaussian Processes Classification.
+\item Linear Discriminant Analysis / Naive Bayes Classifier.\\
+\end{itemize}
+\end{itemize}
+\ \\
+\ \\
+\textbf{Unsupervised Learning}
+\begin{itemize}
+\item Markov Random Fields, e.g. Ising model for image denoising.\\
+\item Mixture models / Cluster Analysis.\\
+\item Hidden Markov Models / Linear Gaussian State Space Models.
+\end{itemize}
+\end{document}
