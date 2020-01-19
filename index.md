@@ -71,7 +71,7 @@ Problem sets will be assigned **each week**. They will include theoretical exerc
 
 ### Assessment
 
-An **individual** project will be assigned on **week 7** and will be due Tuesday, May 12th noon. You will be required to analyse data of your choice using the taught Bayesian Machine Learning techniques and present your findings through a paper-like report.
+An **individual** project will be assigned on **week 7** and will be **due Tuesday, May 12th noon**. You will be required to analyse data of your choice using the taught Bayesian Machine Learning techniques and present your findings through a paper-like report.
 
 During summer term the course is assessed by a 2 hour **written exam**.
 
