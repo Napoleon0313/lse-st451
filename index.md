@@ -13,8 +13,8 @@
 
 ### Course Information
 
-* **Lectures** on Mondays 13:00–15:00 in NAB.2.04 (except week 6 which is NAB.LG.01).
-* **Computer Classes** there are 3 groups: 
+- **Lectures** on Mondays 13:00–15:00 in NAB.2.04 (except week 6 which is NAB.LG.01).
+- **Computer Classes** there are 3 groups: 
   1. Mondays 15:00–16:30 in STC.S018 taught by Kostas Kalogeropoulos
   2. Tuesdays 16:00-17:30 in FAW.4.03 taught by Gianluca Giudice
   3. Thursdays 15:00-16:30 in STC.S08 taught by Phil Chan
@@ -80,17 +80,23 @@ The final grade will be determined by the above with equal weights (**50-50\%**)
 ### Schedule
 
 ---
-#### Week 1. Course overview
+#### Week 1. Bayesian Inference Concepts
 
-In the first week lecture, we describe organization and overview the content of the course. We will go through a wide range of machine learning tasks for which deep learning has proven to provide high accuracy rates. This will include image recognition, speech recognition, machine translation, and reinfocement learning tasks. The reinforcement learning tasks include various game playing and resource allocation problems. We will quickly review main software frameworks for learning and evaluating neural networks and reinforcement learning algorithms.  
+*Topics coverd in Lecture*: 
+ - Machine Learning and Bayesian Inference
+ - Bayes Estimators, 
+ - Credible Intervals
+ - Bayesian Forecasting
+ - Bayesian Inference via Monte Carlo methods
+ 
+*Reading*:
+ - Murphy, Sections 2.1-2.7, 5.2.1, 5.2.2, 6.6.1 and 6.6.2
 
-*Readings*:
-* LeCun, Bengio and Hinton, [Deep Learning](https://www.nature.com/articles/nature14539), Nature Review, Vol 521, 2015
-* Mitchell et al, [Never-Ending Learning](https://cacm.acm.org/magazines/2018/5/227193-never-ending-learning/fulltext), CACM 2018
-
-*Lab*: **Getting started** 
-* Getting started with TensorFlow
-
+*Computer Class*: 
+ - Introduction to Python, e.g.working with arrays, basic operation and plotting
+ - Pseudo-Random numbers
+ - Bayesian Inference (Point and Interval Estimation, Forecasting) with Monte Carlo
+ 
 ---
 #### Week 2. Introduction to neural networks
 
