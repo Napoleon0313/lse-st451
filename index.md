@@ -24,7 +24,7 @@
 | **Week** | **Topic**                            |
 |----------|--------------------------------------|
 | 1        | [Bayesian Inference Concepts](#week-1-bayesian-inference-concepts) |
-| 2        | [Bayesian Linear Regression](#week-2-introduction-to-neural-networks)                  |
+| 2        | [Bayesian Linear Regression](#week-2-bayesian-linear-regression)                  |
 | 3        | [Bayesian Model Selection](#week-3-training-neural-networks)    |
 | 4        | [Classification](#week-4-convolutional-neural-networks)       |
 | 5        | [Variational Bayes](#week-5-sequence-modeling)                  |                       |
@@ -86,12 +86,12 @@ The final grade will be determined by the above with equal weights (**50-50\%**)
 
 *Topics covered in Lecture*: 
  - Machine Learning and Bayesian Inference
- - Bayes Estimators, 
+ - Bayes Estimators
  - Credible Intervals
  - Bayesian Forecasting
  - Bayesian Inference via Monte Carlo methods
  
-*Reading*:
+*Further Reading (Optional)*:
  - Murphy, Sections 2.1-2.7, 5.2.1, 5.2.2, 6.6.1 and 6.6.2
 
 [Computer Class Notebook](/ComputerClasses/ComputerClass01.ipynb)
@@ -100,5 +100,30 @@ The final grade will be determined by the above with equal weights (**50-50\%**)
  - Introduction to Python, e.g.working with arrays, basic operation and plotting
  - Pseudo-Random numbers
  - Bayesian Inference (Point and Interval Estimation, Forecasting) with Monte Carlo
+
+---
+#### Week 2. Bayesian Linear Regression
+
+[Lecture Slides](/LectureSlides/SlidesWeek02.pdf)
+
+*Topics covered in Lecture*: 
+ - Bayesian Linear Regression
+ - Ridge Regression
+ - Lasso Regression
+ - Predictive Distribution
  
+*Further Reading (Optional)*:
+ - Murphy, Sections: 1.7, 5.3.1, 5.3.3 ,5.7.1, 7.5, 7.6.1 and 7.6.2 
+ - Bishop, Sections: 1.1, 3.1.1, 3.1.4, 3.3.1 and 3.3.2
+
+[Computer Class Notebook](/ComputerClasses/ComputerClass02.ipynb)
+
+*Topics covered in Computer Class*: 
+ - Working with Pandas data frames
+ - Working with 'for' loops in Python
+ - Fitting linear regression models
+ - Polynomial curve fitting
+ - Introduction to training and test error concepts
+ - Ridge regression
+
 ---
