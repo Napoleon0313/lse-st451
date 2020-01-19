@@ -25,7 +25,7 @@
 |----------|--------------------------------------|
 | 1        | [Bayesian Inference Concepts](#week-1-bayesian-inference-concepts) |
 | 2        | [Bayesian Linear Regression](#week-2-bayesian-linear-regression)                  |
-| 3        | [Bayesian Model Selection](#week-3-training-neural-networks)    |
+| 3        | [Bayesian Model Selection](#week-3-bayesian-model-choice)    |
 | 4        | [Classification](#week-4-convolutional-neural-networks)       |
 | 5        | [Variational Bayes](#week-5-sequence-modeling)                  |                       |
 | 6        | [Graphical Models](#week-7-introduction-to-reinforcement-learning) |
