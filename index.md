@@ -101,6 +101,10 @@ The final grade will be determined by the above with equal weights (**50-50\%**)
  - Pseudo-Random numbers
  - Bayesian Inference (Point and Interval Estimation, Forecasting) with Monte Carlo
 
+
+[Problem Set 1](/ProblemSets/ProblemSet01)
+
+
 ---
 #### Week 2. Bayesian Linear Regression
 
@@ -125,6 +129,7 @@ The final grade will be determined by the above with equal weights (**50-50\%**)
  - Polynomial curve fitting
  - Introduction to training and test error concepts
  - Ridge regression
+
 
 ---
 #### Week 3. Bayesian Model Choice
