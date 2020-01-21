@@ -102,7 +102,7 @@ The final grade will be determined by the above with equal weights (**50-50\%**)
  - Bayesian Inference (Point and Interval Estimation, Forecasting) with Monte Carlo
 
 
-[Problem Set 1](/ProblemSets/ProblemSet01)
+[Problem Set 1](/ProblemSets/ProblemSet01.pdf)
 
 
 ---
