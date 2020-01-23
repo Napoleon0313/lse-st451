@@ -116,6 +116,12 @@ The final grade will be determined by the above with equal weights (**50-50\%**)
  - Lasso Regression
  - Predictive Distribution
  
+*Topics covered in Class*:
+ - Using R an RStudio
+ - Basic commands for vectors and matrices in R
+ - Data visualisation in R
+ - Loading data in R 
+ 
 *Further Reading (Optional)*:
  - Murphy, Sections: 1.7, 5.3.1, 5.3.3 ,5.7.1, 7.5, 7.6.1 and 7.6.2 
  - Bishop, Sections: 1.1, 3.1.1, 3.1.4, 3.3.1 and 3.3.2
